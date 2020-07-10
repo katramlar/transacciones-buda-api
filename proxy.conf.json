@@ -1,0 +1,7 @@
+{
+  "/markets/*":{
+    "target":"https://www.buda.com/api/v2",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
